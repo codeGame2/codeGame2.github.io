@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://codegame2.github.io/</loc>
+  <lastmod>2020-10-01T07:56:36+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://codegame2.github.io/index.html</loc>
+  <lastmod>2020-10-01T07:56:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://codegame2.github.io/GAMEfire/</loc>
+  <lastmod>2020-08-27T07:09:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://codegame2.github.io/wwwSchools/</loc>
+  <lastmod>2020-09-05T05:10:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://codegame2.github.io/HTML5-editor/</loc>
+  <lastmod>2020-08-30T11:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://codegame2.github.io/GAMEfire/Votes.html</loc>
+  <lastmod>2020-08-27T07:09:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://codegame2.github.io/GAMEfire/Embed/embed.txt</loc>
+  <lastmod>2020-08-27T07:09:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://codegame2.github.io/GAMEfire/Embed/embed%202.txt</loc>
+  <lastmod>2020-08-27T07:09:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://codegame2.github.io/GAMEfire/Embed/embed%203.txt</loc>
+  <lastmod>2020-08-27T07:09:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://codegame2.github.io/GAMEfire/Embed/embed%204.txt</loc>
+  <lastmod>2020-08-27T07:09:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://codegame2.github.io/GAMEfire/Embed/embed%206.txt</loc>
+  <lastmod>2020-08-27T07:09:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://codegame2.github.io/wwwSchools/html/syllabus</loc>
+  <lastmod>2020-09-05T05:10:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://codegame2.github.io/wwwSchools/Demo/demo</loc>
+  <lastmod>2020-09-05T05:10:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://codegame2.github.io/wwwSchools/html/introToHtml</loc>
+  <lastmod>2020-09-05T05:10:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://codegame2.github.io/wwwSchools/html/theDoctype</loc>
+  <lastmod>2020-09-05T05:10:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://codegame2.github.io/wwwSchools/html/elementStructure</loc>
+  <lastmod>2020-09-05T05:10:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://codegame2.github.io/wwwSchools/html/HTMLcomments</loc>
+  <lastmod>2020-09-05T05:10:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://codegame2.github.io/wwwSchools/html/HTMLstructure</loc>
+  <lastmod>2020-09-05T05:10:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://codegame2.github.io/wwwSchools/html/heading</loc>
+  <lastmod>2020-09-05T05:10:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://codegame2.github.io/wwwSchools/Demo/Sign-up-form/</loc>
+  <lastmod>2020-09-05T05:10:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://codegame2.github.io/wwwSchools/Demo/NEON-BUTTON/</loc>
+  <lastmod>2020-09-05T05:10:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://codegame2.github.io/wwwSchools/html/theDoctype.html</loc>
+  <lastmod>2020-09-05T05:10:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://codegame2.github.io/wwwSchools/html/editors/structure.html</loc>
+  <lastmod>2020-09-05T05:10:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://codegame2.github.io/wwwSchools/html/frames/structure.txt</loc>
+  <lastmod>2020-09-05T05:10:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://codegame2.github.io/wwwSchools/html/editors/headings.html</loc>
+  <lastmod>2020-09-05T05:10:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://codegame2.github.io/wwwSchools/html/frames/heading.txt</loc>
+  <lastmod>2020-09-05T05:10:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
